@@ -2,6 +2,8 @@
 Repositorio con ejercicios para practicar comandos básicos de git
 holaaaaaaa
 
+El comando que use para cambiar el origen fue: git remote set-url origin https://github.com/USERNAME/OTHERREPOSITORY.git
+
 se viene la segunda... 
 
 ## Qué podemos hacer
