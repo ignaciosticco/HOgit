@@ -1,6 +1,9 @@
 # HOgit
 Repositorio con ejercicios para practicar comandos básicos de git
 holaaaaaaa
+
+se viene la segunda... 
+
 ## Qué podemos hacer
 
 ### Commits
